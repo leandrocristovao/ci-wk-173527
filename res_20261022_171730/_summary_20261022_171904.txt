@@ -1,0 +1,12 @@
+Scan Summary
+============
+Date: 2026-10-22T17:19:04.221234
+Total: 375
+Vulnerable: 0
+Failed: 0
+States: {"dns_or_connect_error": 94, "http_error": 195, "unknown_timeout": 86}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - hello-api_hitrail_eu_20261022_171740.json
