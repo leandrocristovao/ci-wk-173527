@@ -14,3 +14,4 @@ pishrooshop.ir
 www.pishrooshop.ir
 edgec.io
 hello-api.hitrail.eu
+staging.bodyfyme.com
