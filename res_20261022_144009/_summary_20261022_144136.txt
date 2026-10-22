@@ -1,0 +1,13 @@
+Scan Summary
+============
+Date: 2026-10-22T14:41:36.500743
+Total: 342
+Vulnerable: 2
+Failed: 0
+States: {"dns_or_connect_error": 80, "http_error": 204, "unknown_timeout": 56, "vulnerable": 2}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - pishrooshop_ir_20261022_144013.json
+  - www_pishrooshop_ir_20261022_144017.json
