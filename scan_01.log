@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/home/runner/work/ci-wk-173527/ci-wk-173527/bin/batch_output.py", line 899, in <module>
+    main()
+  File "/home/runner/work/ci-wk-173527/ci-wk-173527/bin/batch_output.py", line 877, in main
+    targets, _dstats = filter_unseen(targets)
+                       ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/ci-wk-173527/ci-wk-173527/bin/batch_output.py", line 789, in filter_unseen
+    con = _dedup_db()
+          ^^^^^^^^^^^
+  File "/home/runner/work/ci-wk-173527/ci-wk-173527/bin/batch_output.py", line 757, in _dedup_db
+    con.execute("PRAGMA journal_mode=WAL")
+sqlite3.OperationalError: database is locked
