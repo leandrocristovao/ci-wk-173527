@@ -1,0 +1,19 @@
+Scan Summary
+============
+Date: 2026-10-22T03:44:57.550696
+Total: 213
+Vulnerable: 0
+Failed: 0
+States: {"dns_or_connect_error": 33, "http_error": 98, "unknown_timeout": 82}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 1 targets
+
+Vulnerable targets:
+  - go_trysumma_app_20261022_034338.json
+
+
+CRITICAL CRYPTO KEYS FOUND:
+===========================
+
+Target: go.trysumma.app
+  🔑 DATABASE_URL: [REDACTED]
