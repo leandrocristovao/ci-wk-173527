@@ -1,11 +1,8 @@
-# progress 3904/9944 259 hosts/s eta 23s
-# progress 7926/9944 262 hosts/s eta 7s
-# progress 9944/9944 220 hosts/s eta 0s
-# progress 9944/9944 165 hosts/s eta 0s
-# progress 9944/9944 132 hosts/s eta 0s
-# progress 9944/9944 110 hosts/s eta 0s
-# progress 9944/9944 95 hosts/s eta 0s
-Can not load cookies: Illegal cookie name 'weo27940181753584"'
-# progress 9944/9944 83 hosts/s eta 0s
-# progress 9944/9944 74 hosts/s eta 0s
-# prefilter: 269/9944 nextjs (pass2_recovered=0/1640, unproven_passed=150, unproven_capped=1250)
+# progress 3551/10011 234 hosts/s eta 27s
+# progress 7052/10011 233 hosts/s eta 12s
+# progress 9979/10011 220 hosts/s eta 0s
+# progress 10011/10011 166 hosts/s eta 0s
+# progress 10011/10011 133 hosts/s eta 0s
+# progress 10011/10011 111 hosts/s eta 0s
+# progress 10011/10011 95 hosts/s eta 0s
+# prefilter: 264/10011 nextjs (pass2_recovered=1/1164, unproven_passed=150, unproven_capped=829)

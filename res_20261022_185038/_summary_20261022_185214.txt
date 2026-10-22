@@ -1,0 +1,14 @@
+Scan Summary
+============
+Date: 2026-10-22T18:52:14.514179
+Total: 396
+Vulnerable: 3
+Failed: 0
+States: {"dns_or_connect_error": 104, "http_error": 184, "unknown_timeout": 105, "vulnerable": 3}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - mytable_au_20261022_185044.json
+  - pvm202003_pvvws2_com_20261022_185042.json
+  - pvvws2_com_20261022_185042.json
