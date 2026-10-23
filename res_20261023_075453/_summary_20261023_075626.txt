@@ -1,0 +1,19 @@
+Scan Summary
+============
+Date: 2026-10-23T07:56:26.205812
+Total: 430
+Vulnerable: 1
+Failed: 0
+States: {"dns_or_connect_error": 75, "http_error": 279, "unknown_timeout": 75, "vulnerable": 1}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 1 targets
+
+Vulnerable targets:
+  - jdtexcn_com_20261023_075506.json
+
+
+CRITICAL CRYPTO KEYS FOUND:
+===========================
+
+Target: jdtexcn.com
+  🔑 DATABASE_URL: [REDACTED]
