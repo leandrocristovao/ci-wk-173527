@@ -1,0 +1,13 @@
+Scan Summary
+============
+Date: 2026-10-23T03:15:33.238918
+Total: 458
+Vulnerable: 2
+Failed: 0
+States: {"dns_or_connect_error": 92, "http_error": 252, "unknown_timeout": 112, "vulnerable": 2}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - guarainoticias_com_br_20261023_031404.json
+  - www_guarainoticias_com_br_20261023_031405.json
