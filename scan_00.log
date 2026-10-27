@@ -1,64 +1,53 @@
 [dedup] warn: text registry append failed: [Errno 13] Permission denied: '/root/ct_dump/priority_scanned.txt'
-[dedup] on: 104 hosts in (104 probes) -> 38 unseen hosts (38 probes) | skipped 66 already-scanned probes
+[dedup] on: 477 hosts in (479 probes) -> 27 unseen hosts (27 probes) | skipped 452 already-scanned probes
 ======================================================================
 CVE-2025-55182 Batch Scanner — @Haf[redacted]Bot
 ======================================================================
-[*] Targets: 38
+[*] Targets: 27
 [*] Concurrency: 250 | Timeout: 8s
-[*] Output directory: res_20261024_000009
+[*] Output directory: res_20261027_232317
 [*] Telegram: Will send zip when complete
 [*] Vulnerable registry: vulnerable_targets_registry.txt
 ----------------------------------------------------------------------
-[1/38] 3fde0ed2.sni.cloudflaressl.com - dns_or_connect_error
-[2/38] 00c6f9fb.sni.cloudflaressl.com - dns_or_connect_error
-[3/38] 6www.14321046fbd5d43a6e7cd0.mobile.mercedrealestate.com - dns_or_connect_error
-[4/38] ruckus.grc-scm.comcast.net - http_error
-[5/38] twww.www.kjilkjidcbmhgfedcbaxwvuxwvutonpupnvzr4q3r2qs3n02ruqt1mvm1tv43nr.3210bzm91ce0icu9lvct.123barnystreet.opik.net - dns_or_connect_error
-[6/38] www.superslot6684.ph - http_error
-[7/38] www.ukkmed.ph - http_error
-[8/38] proposta.netconecta.com.br - http_error
-[9/38] www.urawa-keiseishimkin.ph - http_error
-[10/38] www.xn--tchsolutons-gsb764bja.com.ph - http_error
-[11/38] cheapadelaideremovalist.com.au - http_error
-[12/38] littlelightsmusic.com.au - http_error
-[13/38] login.smileyflorist.com - http_error
-[14/38] www.enduralifewellness.info - http_error
-[15/38] 316betplataforma.com - http_error
-[16/38] 12z143.xenc3a.mom - http_error
-[17/38] matthieumota.code.boxydev.com - dns_or_connect_error
-[18/38] legacy-carstensen.easysolutions.work - dns_or_connect_error
-[19/38] clipship.app - http_error
-[20/38] www.lab.yagamifestival.com - dns_or_connect_error
-[21/38] howoge.synology.me - http_error
-[22/38] bjwk-002.my.commercecloud.salesforce.com - http_error
-[23/38] www.stage26.weiterbildung-zofingen.ch - http_error
-[24/38] www.meblowe-strefa.pl - http_error
-[25/38] space-trust.com - http_error
-[26/38] aerofieldmarkets.com - http_error
-[27/38] f73bb56fbc67fa59a6141c47.netcraze.io - http_error
-[28/38] 79745ecdcebd177d9816384a.netcraze.io - http_error
-[29/38] www.hdb-server1.cn - unknown_timeout
-[30/38] update.candojo.fr - unknown_timeout
-[31/38] chi.fce.mycrazydomains.me - unknown_timeout
-[32/38] grundsteuervergleich.de - unknown_timeout
-[33/38] gettinkly.online - unknown_timeout
-[34/38] old.zazzcomics.com - unknown_timeout
-[35/38] las1.blackicecrm.com - unknown_timeout
-[36/38] device-7875f700-916e-4ba5-a7f5-65dbf486efa9.remotewd.com - unknown_timeout
-[37/38] sftpgo.5rg.de - unknown_timeout
-[38/38] 925dw899.r3gr2.top - unknown_timeout
+[1/27] www.souqgadgetsmall.com - dns_or_connect_error
+[2/27] swww.nmwww.hkfmhgfahgfedcbaxwvuxwvutonpupnvzr4q3r2qs3n02ruqt1mvm1tv43nr.3210bzm91ce0icu9lvct.123barnystreet.opik.net - dns_or_connect_error
+[3/27] n0ljihgfedgfedcbaxaxcd76533c0c72d-e3b2-497b-87e0-fe93800546c2.supertutorlc.com - dns_or_connect_error
+[4/27] t0rpwjqstjihgfedcbaupdate.98765be6191f5-7f66-434b-aa40-8af02a17684a.supertutorlc.com - dns_or_connect_error
+[5/27] s0qomvd.k0igjihcfedcbaxaxcd76533c0c72d-e3b2-497b-87e0-fe93800546c2.supertutorlc.com - dns_or_connect_error
+[6/27] aqaviatech.com - http_error
+[7/27] brandisc.com - http_error
+[8/27] xn--atiuminovations-p1c60z.ph - http_error
+[9/27] hostmaster.pinoychanneltv.ph - http_error
+[10/27] kepland.com.ph - http_error
+[11/27] granalier.terasync.tera.ar - http_error
+[12/27] forms.srinidhiphysiotherapy.com - dns_or_connect_error
+[13/27] www.vilkaviskiobaseinas.lt - http_error
+[14/27] qwww.lkjilkfedgbegzijyqec.wzulqcbdvny.srmlkjidonmlkfedvrcqh654cb0efb4e05-0c96-4156-b771-a34d78af1bbe.yektasaka.org - dns_or_connect_error
+[15/27] christofakis.edu.gr - http_error
+[16/27] yik-consulting.annraughtauthor.com - http_error
+[17/27] irmaosmeira.com.br - http_error
+[18/27] cut7kjj1vljs62rj827g.decisionspace365.com - dns_or_connect_error
+[19/27] ceraminic.cyberthreatconsortium.biz - http_error
+[20/27] freepanelhosting.online - http_error
+[21/27] movetobrenvo.com - http_error
+[22/27] autodiscover.ecstacyinc.battery.cam - dns_or_connect_error
+[23/27] certificawebacess.mahindraholidayscampaigns.com - dns_or_connect_error
+[24/27] m.aberropia.com - http_error
+[25/27] vailappraisal.direct.quickconnect.to - unknown_timeout
+[26/27] mail.atrinburners.com - unknown_timeout
+[27/27] playlist.lavostoke.ch - unknown_timeout
 
 ======================================================================
 [*] Scan complete!
-    Total scanned: 38
+    Total scanned: 27
     Vulnerable: 0
     Failed: 0
-[+] Results saved in: res_20261024_000009
+[+] Results saved in: res_20261027_232317
 
 [*] Analyzing results...
     Found 0 targets with critical keys
-[+] Summary saved: res_20261024_000009/_summary_20261024_000129.txt
+[+] Summary saved: res_20261027_232317/_summary_20261027_232437.txt
 
 [*] Zipping results folder...
-    Created: res_20261024_000009.zip (0.0 MB)
+    Created: res_20261027_232317.zip (0.0 MB)
     Telegram delivery disabled by default (set SEND_TELEGRAM=1 to send raw result zip)

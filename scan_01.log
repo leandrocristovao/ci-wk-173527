@@ -1,81 +1,52 @@
 [dedup] warn: text registry append failed: [Errno 13] Permission denied: '/root/ct_dump/priority_scanned.txt'
-[dedup] on: 182 hosts in (182 probes) -> 55 unseen hosts (55 probes) | skipped 127 already-scanned probes
+[dedup] on: 454 hosts in (459 probes) -> 25 unseen hosts (26 probes) | skipped 433 already-scanned probes
 ======================================================================
 CVE-2025-55182 Batch Scanner — @Haf[redacted]Bot
 ======================================================================
-[*] Targets: 55
+[*] Targets: 26
 [*] Concurrency: 250 | Timeout: 8s
-[*] Output directory: res_20261024_000009
+[*] Output directory: res_20261027_232317
 [*] Telegram: Will send zip when complete
 [*] Vulnerable registry: vulnerable_targets_registry.txt
 ----------------------------------------------------------------------
-[1/55] xrvemiou.mttaborpreschool.org - dns_or_connect_error
-[2/55] txramojs.mttaborpreschool.org - dns_or_connect_error
-[3/55] 0c56fbda.sni.cloudflaressl.com - dns_or_connect_error
-[4/55] www.aguiafirextintores.com.br.rafaelgomes1783957045345.0001549.meusitehostgator.com.br - dns_or_connect_error
-[5/55] f072f04c.sni.cloudflaressl.com - dns_or_connect_error
-[6/55] 1ea4c1ac.sni.cloudflaressl.com - dns_or_connect_error
-[7/55] webdisk.viniciuspinto1790189232104.0711032.meusitehostgator.com.br - dns_or_connect_error
-[8/55] cf6ca59e.sni.cloudflaressl.com - dns_or_connect_error
-[9/55] inbat-eg.com - http_error
-[10/55] mwww.pojmhgfmhgfedcbaxwvuxwvutonpupnvzr4q3r2qs3n02ruqt1mvm1tv43nr.3210bzm91ce0icu9lvct.123barnystreet.opik.net - dns_or_connect_error
-[11/55] www.ktexpvygpc-riders.org.ph - http_error
-[12/55] www.xn--sprimgglobalmil-gkb.ph - http_error
-[13/55] pennsylvaniadc.ph - http_error
-[14/55] www.97807425.com - dns_or_connect_error
-[15/55] account.priligyonline.co.uk - http_error
-[16/55] lazxvg.satlsfylngdates.net - http_error
-[17/55] wp.skillharbora.com - http_error
-[18/55] liveticker.cloud - http_error
-[19/55] www.qponmlkjihgfedcbanotexistswvutt0rpowhm.o0mkjedcbadcbaubvuo765432105loaded.forever.v2202508297531378155.powersrv.de - dns_or_connect_error
-[20/55] www.planencende.online - dns_or_connect_error
-[21/55] www.whm.www.iqidgpanel.cityclass.com - dns_or_connect_error
-[22/55] m.solaridaho.com - dns_or_connect_error
-[23/55] d351odkq611sd85fed00.app.cushawake.net - http_error
-[24/55] ob9sgaff.com - http_error
-[25/55] argocd.qa.mpro.greencapehealth.com - http_error
-[26/55] descagupraprapamaxpro.sbs - http_error
-[27/55] thevennue.com - http_error
-[28/55] devlethaber.com.tr - http_error
-[29/55] 024c30f68e02e6b04ef16151.netcraze.io - http_error
-[30/55] 02ddcb00625fcf35fbc085e4.netcraze.io - unknown_timeout
-[31/55] linkns01.direct.quickconnect.to - unknown_timeout
-[32/55] device-local-70e04769-ef11-402f-a7bd-c996071e3575.remotewd.com - unknown_timeout
-[33/55] www.gummies.in - unknown_timeout
-[34/55] sandbox.grvt.team - unknown_timeout
-[35/55] mta.benefithb.com - unknown_timeout
-[36/55] 10-10-1-31.e7n6eb2crcp.ddns.manage.alta.inc - unknown_timeout
-[37/55] livedrawhongkong.live - unknown_timeout
-[38/55] hawcon-nas-remote.direct.quickconnect.to - unknown_timeout
-[39/55] www.hgfadclivetritonapartmentsfostercity.comww.young-turtle-38.telebit.io - unknown_timeout
-[40/55] 5kxd6byrwum7x2io.myfritz.net - unknown_timeout
-[41/55] admin.tavella-cloud.net.ar - unknown_timeout
-[42/55] www.ipsyy.com - unknown_timeout
-[43/55] www.hgbahgfadmin.adminer.dotsgroup.euuat.wwwtkdev.35-204-139-184.sslip.io - unknown_timeout
-[44/55] www.adultxxxvids.com - unknown_timeout
-[45/55] infoinmotionsd.direct.quickconnect.to - unknown_timeout
-[46/55] 80804076.com - unknown_timeout
-[47/55] viz.grynnandbarett.com - unknown_timeout
-[48/55] dpppan.direct.quickconnect.to - unknown_timeout
-[49/55] pr-201.fennec-den.int.krzysztofruczkowski.pl - unknown_timeout
-[50/55] diamondcpi.com - unknown_timeout
-[51/55] www.nqupdate.ifrauke-nagelstudio.dedotsgroup.euuat.wwwtkdev.35-204-139-184.sslip.io - unknown_timeout
-[52/55] recuitinglimeglobaltech.com - unknown_timeout
-[53/55] proxmox.yhome.ximing.cc - unknown_timeout
-[54/55] 593dl72e6sv4kv8w.myfritz.net - unknown_timeout
-[55/55] 925cc012.2ywmy.top - unknown_timeout
+[1/26] shelp.co - http_error
+[2/26] it.derriedmichl.com - http_error
+[3/26] smvd.s0qonj0hfn0ljilgff0dbad766042187618770532097705370532en.dcurtis.svbtlestage.com - dns_or_connect_error
+[4/26] www.spichaacademy.de - http_error
+[5/26] docs.samplehc.com - http_error
+[6/26] salsa.iluvthby.com - http_error
+[7/26] livohub.kolivo.org - http_error
+[8/26] www.joverflowsolutione.com.ph - http_error
+[9/26] secure.porsha.eu - http_error
+[10/26] www.altay-pilorama.ru - dns_or_connect_error
+[11/26] portal.asterahealthcare.org - http_error
+[12/26] iixi.cc - http_error
+[13/26] internships.zksec.io - http_error
+[14/26] burninglovebendigo.com - http_error
+[15/26] www.iixi.cc - http_error
+[16/26] damai298.com - http_error
+[17/26] backend.drpujabalchandani.com - http_error
+[18/26] awnedgla.casa - dns_or_connect_error
+[19/26] amp.turkporno.click - dns_or_connect_error
+[20/26] wingleft.site - unknown_timeout
+[21/26] dashboard.zen-ai.pro - unknown_timeout
+[22/26] 455qn61ffxxt7jvw.myfritz.net - unknown_timeout
+[23/26] rossistudio-rbs.direct.quickconnect.to - unknown_timeout
+[24/26] chehuan.cn - unknown_timeout
+[25/26] connect.luckyrollers.one - unknown_timeout
+[26/26] alerazius1980.freeboxos.fr - unknown_timeout
 
 ======================================================================
 [*] Scan complete!
-    Total scanned: 55
+    Total scanned: 26
     Vulnerable: 0
     Failed: 0
-[+] Results saved in: res_20261024_000009
+[+] Results saved in: res_20261027_232317
 
 [*] Analyzing results...
     Found 0 targets with critical keys
-[+] Summary saved: res_20261024_000009/_summary_20261024_000129.txt
+[+] Summary saved: res_20261027_232317/_summary_20261027_232437.txt
 
 [*] Zipping results folder...
-    Created: res_20261024_000009.zip (0.0 MB)
+    Created: res_20261027_232317.zip (0.0 MB)
     Telegram delivery disabled by default (set SEND_TELEGRAM=1 to send raw result zip)
